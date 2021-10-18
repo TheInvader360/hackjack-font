@@ -1,0 +1,22 @@
+/** Character Set program. */
+class Main {
+   function void main() {
+      /* Prints the full character set using the standard library. */
+      do Output.printString(" !\"#$%&'()*+,-./");
+      do Output.println(); // New line
+      do Output.printString("0123456789");
+      do Output.println(); // New line
+      do Output.printString(":;<=>?@");
+      do Output.println(); // New line
+      do Output.printString("ABCDEFGHIJKLMNOPQRSTUVWXYZ");
+      do Output.println(); // New line
+      do Output.printString("[\\]^_`");
+      do Output.println(); // New line
+      do Output.printString("abcdefghijklmnopqrstuvwxyz");
+      do Output.println(); // New line
+      do Output.printString("{|}~");
+      do Output.println(); // New line
+      return;
+   }
+}
+

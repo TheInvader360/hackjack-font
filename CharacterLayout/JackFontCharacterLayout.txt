@@ -1,0 +1,8 @@
+Each character in JackFontCharacterLayout.png occupies a rectangle 8 pixels wide and 11 pixels high.
+
+* The ascender is 9 pixels high (white background)
+* The descender is 1 pixel high (red background)
+* The line gap is 1 pixel high (blue)
+* Letter spacing is 2 pixels wide (green)
+* Word spacing is 8 pixels wide (the full width of a single character)
+
